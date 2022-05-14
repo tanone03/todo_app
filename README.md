@@ -1,16 +1,12 @@
-# todo
+<h1>Todo App</h1>
 
-A new Flutter project.
+This app was created using Flutter
 
-## Getting Started
+<p>In this todo app you can write your task or delete it</p>
+<p>Data is not lost. I used <b>sqflite</b> to save data</p>
 
-This project is a starting point for a Flutter application.
+<h2>Screenshot</h2>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<img src="lib/screenshot.png" width=256 style = "display:inline-block" />
+</div>
